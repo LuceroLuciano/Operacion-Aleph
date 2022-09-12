@@ -5,3 +5,6 @@
 - ### [Implementación de Azure AD Indentity Protection]()
 - ### [Configuración de Azure AD Privileged Identity Management]()
 - ### [Diseño de una estrategia de gobernanza empresarial]()
+
+
+### [Notas semana 4](https://drive.google.com/drive/folders/1KEfwQqOyrZPiUmJTxgc32WR6pXsE86MA)
