@@ -18,3 +18,5 @@
 - **[2.1 Protegiendo el perímetro, Salva las conexiones - 08/08/2022]()**
 ## Stage Boos Level 1
 [Caso de estudio 1](https://github.com/LuceroLuciano/Operacion-Aleph/blob/main/Caso%20de%20esudio%20semana%201.pdf)
+
+### [Notas de semana 2](https://drive.google.com/drive/folders/1YeI0SQry9CTj_nvvW6JeOwjeFUDFn4d9)
