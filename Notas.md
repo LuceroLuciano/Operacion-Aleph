@@ -15,6 +15,8 @@
 
 📍 [También tenemos el git con un recopilatorio de Michel](https://github.com/zerosorai/AZ-500_Cert)
 
+📍 [Presentaciones de contenido](https://drive.google.com/drive/folders/1W1XQY0QafohMbDy1y1m6bCRKv04d2OkU)
+
  
  
 **Autores de los apuntes**
